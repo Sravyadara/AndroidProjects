@@ -6,3 +6,9 @@ It takes all the contacts from mobile phonebook and displays in a list fashion.W
 You can remove the contacts from favorites by a long click on the contact in favorites list.
 
 In this project, we are not using any database to store the favorites. Instead of that we are using shared preferences to save the favorites. These shared preferences will be live until we reinstall the application on mobile. 
+
+Check the screen shots of our application below.
+
+![contacts.png](https://github.com/Sravyadara/AndroidProjects/blob/master/SharedPreferencesFavorites/contacts.png)
+![fav.png](https://github.com/Sravyadara/AndroidProjects/blob/master/SharedPreferencesFavorites/fav.png)
+
